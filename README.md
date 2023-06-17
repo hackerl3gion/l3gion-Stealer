@@ -30,7 +30,7 @@ Antiprocess
 
 Execute Shell Code
 Dropper
-Fake MessageBox
+FakeMessageBox
 
 ![exploits](https://github.com/hackerl3gion/l3gion-Stealer/assets/136676724/268d46f5-4ebb-4dea-bac5-b47d323ba281)
 
