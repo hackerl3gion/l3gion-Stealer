@@ -40,5 +40,5 @@ FakeMessageBox
 exploits Undectectable.
 
 Youtube:-l3gion
-Discord : legion#9130
+Discord : legion7667 . legion76
 Video:-https://www.youtube.com/channel/UClOhOsEIlNow2XizG1TExVg
